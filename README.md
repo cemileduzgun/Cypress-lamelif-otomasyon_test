@@ -5,7 +5,7 @@ Kurulum Kılavuzu
 Projenin yerel makinenizde çalıştırılabilmesi için aşağıdaki adımları takip edin:
 
 Bu depoyu yerel makinenize kopyalayın:
-git clone https://github.com/sizin-kullanici-adi/cypress-otomasyon-testi.git
+[git clone https://github.com/sizin-kullanici-adi/cypress-otomasyon-testi.git](https://github.com/cemileduzgun/Cypress-lamelif-otomasyon_test.git)
 
 Proje dizinine gidin:
 cd cypress-otomasyon-testi
